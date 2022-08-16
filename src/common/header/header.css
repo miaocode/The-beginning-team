@@ -1,0 +1,25 @@
+.header-container {
+  color: white;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 8px 64px;
+  height: 64px;
+  width: 100%;
+  background: #111827;
+}
+#management {
+  font-size: 30px;
+  color: white;
+}
+
+input {
+  width: 350px;
+  height: 48px;
+}
+
+.total-amount {
+  font-size: large;
+}
